@@ -72,7 +72,7 @@ Here are some example requests you can make to the API:
 ### Using the API with Postman
 
 1. **Import the API Collection**:
-   - Download the Postman collection from [here](https://github.com/luiscarlo6/accel-one-contacts-api/Contacts.postman_collection.json).
+   - Download the Postman collection from [here](https://raw.githubusercontent.com/luiscarlo6/accel-one-contacts-api/main/Contacts.postman_collection.json).
    - Open Postman, click on 'Import' > 'Upload Files' and select the downloaded collection file.
 2. **Make Requests**:
    - Select the appropriate request from the collection.
