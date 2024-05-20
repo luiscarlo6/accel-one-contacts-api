@@ -84,5 +84,13 @@ Here are some example requests you can make to the API:
   npm test
 ```
 
+## What could be improved?
+- The id generation for the data is based in the total number of items, this could cause a bug of duplicated entries. For this we could use the NoSQL approach and generate a hashed value for each id.
+- Validations on mandatory parameters using libraries such as express-validator.
+- Configure HTTPS instead of HTTP.
+- Use Swaggger as a documentation tool 
+- More test coverage
+- Logging
+
 ## License
 Distributed under the MIT License. 
